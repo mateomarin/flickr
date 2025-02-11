@@ -1,0 +1,10 @@
+__pycache__/*
+msint/data/*
+keys/*
+*.pth
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
